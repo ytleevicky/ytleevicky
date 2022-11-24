@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a personal project**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React & React Native**
 
 - 📫 How to reach me **ytleevicky@gmail.com**
 
